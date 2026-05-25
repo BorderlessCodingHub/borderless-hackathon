@@ -7,8 +7,5 @@
   "assets": {
     "binding": "ASSETS",
     "directory": ".open-next/assets"
-  },
-  "routes": [
-    { "pattern": "hackathon.borderlesscoding.com", "custom_domain": true }
-  ]
+  }
 }
