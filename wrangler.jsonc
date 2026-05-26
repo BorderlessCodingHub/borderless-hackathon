@@ -7,5 +7,9 @@
   "assets": {
     "binding": "ASSETS",
     "directory": ".open-next/assets"
+  },
+  "vars": {
+    "NEXT_PUBLIC_CONVEX_URL": "https://brazen-wren-605.convex.cloud",
+    "NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY": "pk_test_ZGlzdGluY3QtZ29sZGZpc2gtNDguY2xlcmsuYWNjb3VudHMuZGV2JA"
   }
 }

@@ -8,10 +8,19 @@ export default async function HomePage() {
   try {
     hackathons = await fetchQuery(api.hackathons.list, {})
   } catch (err) {
-    console.error(
-      '[HomePage] fetchQuery(api.hackathons.list) failed:',
-      err instanceof Error ? `${err.message}\n${err.stack}` : err,
-    )
+    const e = err as Error & Record<string, unknown>
+    console.error('[HomePage] fetchQuery failed:', {
+      name: e?.name,
+      message: e?.message,
+      ctor: e?.constructor?.name,
+      cause: e?.cause,
+      data: e?.data,
+      code: e?.code,
+      keys: e ? Object.getOwnPropertyNames(e) : null,
+      json: (() => { try { return JSON.stringify(e) } catch { return '<unserializable>' } })(),
+      stack: e?.stack,
+      convexUrl: process.env.NEXT_PUBLIC_CONVEX_URL ?? '<undefined>',
+    })
     throw err
   }
   if (hackathons.length > 0) redirect(`/${hackathons[0].slug}`)
