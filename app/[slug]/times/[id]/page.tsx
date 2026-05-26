@@ -96,11 +96,11 @@ export default async function SlugTeamDetailPage({
                   <div>
                     <div className="font-semibold text-white">{member.name}</div>
                     <div className="text-[10px] font-semibold uppercase tracking-[0.12em] text-[#636363]">
-                      {member.metrics.tasksCompleted} tasks · {member.metrics.attendance}% presença
+                      {member.metrics?.tasksCompleted ?? 0} tasks · {member.metrics?.attendance ?? 0}% presença
                     </div>
                   </div>
                   <div className="text-right">
-                    <div className="font-black tabular-nums text-white">{member.metrics.totalPoints}</div>
+                    <div className="font-black tabular-nums text-white">{member.metrics?.totalPoints ?? 0}</div>
                     <div className="text-xs text-[#636363]">pts</div>
                   </div>
                 </div>

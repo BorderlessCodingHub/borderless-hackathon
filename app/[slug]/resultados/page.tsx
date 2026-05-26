@@ -213,11 +213,11 @@ export default async function SlugResultadosPage({
                         </td>
                         <td className="px-6 py-4 text-sm text-[#636363]">{team?.name ?? '—'}</td>
                         <td className="px-6 py-4 font-semibold tabular-nums text-white">
-                          {p.metrics.attendance}%
+                          {p.metrics?.attendance ?? 0}%
                         </td>
-                        <td className="px-6 py-4 text-[#b2b2b2]">{p.metrics.tasksCompleted}</td>
+                        <td className="px-6 py-4 text-[#b2b2b2]">{p.metrics?.tasksCompleted ?? 0}</td>
                         <td className="px-6 py-4 font-black tabular-nums text-white">
-                          {p.metrics.totalPoints}
+                          {p.metrics?.totalPoints ?? 0}
                         </td>
                       </tr>
                     )

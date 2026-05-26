@@ -118,7 +118,7 @@ export default async function SlugPage({
               <div className="flex flex-shrink-0 items-start gap-8 text-right">
                 <div>
                   <div className="text-3xl font-black tabular-nums text-[#9810fa]">
-                    <CountingNumber value={mvp?.metrics.totalPoints ?? 0} />
+                    <CountingNumber value={mvp?.metrics?.totalPoints ?? 0} />
                   </div>
                   <div className="mt-1 text-[10px] font-semibold uppercase tracking-[0.15em] text-[#636363]">
                     pontos
@@ -126,7 +126,7 @@ export default async function SlugPage({
                 </div>
                 <div>
                   <div className="text-3xl font-black tabular-nums text-white">
-                    <CountingNumber value={mvp?.metrics.attendance ?? 0} />
+                    <CountingNumber value={mvp?.metrics?.attendance ?? 0} />
                     <span className="text-xl">%</span>
                   </div>
                   <div className="mt-1 text-[10px] font-semibold uppercase tracking-[0.15em] text-[#636363]">

@@ -4,7 +4,16 @@ import { redirect } from 'next/navigation'
 import Link from 'next/link'
 
 export default async function HomePage() {
-  const hackathons = await fetchQuery(api.hackathons.list, {})
+  let hackathons: Awaited<ReturnType<typeof fetchQuery<typeof api.hackathons.list>>>
+  try {
+    hackathons = await fetchQuery(api.hackathons.list, {})
+  } catch (err) {
+    console.error(
+      '[HomePage] fetchQuery(api.hackathons.list) failed:',
+      err instanceof Error ? `${err.message}\n${err.stack}` : err,
+    )
+    throw err
+  }
   if (hackathons.length > 0) redirect(`/${hackathons[0].slug}`)
 
   return (
