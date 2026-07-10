@@ -1,0 +1,435 @@
+{
+  "hb01-2025": {
+    "criteria": [
+      "Clean Code",
+      "Estrutura",
+      "UI",
+      "Inovação"
+    ],
+    "scoringNote": "Classificação oficial por pontos de colocação do time (1º = 100 pts, 2º = 75 pts, etc.). As notas por critério são a média dos 3 juízes (0–10). O ranking individual soma os pontos de cada participante na edição.",
+    "time-1": {
+      "project": "FeedAI",
+      "description": "Dashboard para resumir feedbacks de clientes usando IA.",
+      "githubUrl": "https://github.com/ProgramadoresSemPatria/Team-1",
+      "scores": [
+        {
+          "criteriaKey": "Clean Code",
+          "value": 8.17
+        },
+        {
+          "criteriaKey": "Estrutura",
+          "value": 8.33
+        },
+        {
+          "criteriaKey": "UI",
+          "value": 8.93
+        },
+        {
+          "criteriaKey": "Inovação",
+          "value": 9.17
+        }
+      ]
+    },
+    "time-2": {
+      "project": "Interview Tracking",
+      "description": "Sistema de acompanhamento de entrevistas.",
+      "githubUrl": "https://github.com/ProgramadoresSemPatria/hackaton-team2",
+      "scores": [
+        {
+          "criteriaKey": "Clean Code",
+          "value": 8.27
+        },
+        {
+          "criteriaKey": "Estrutura",
+          "value": 7.33
+        },
+        {
+          "criteriaKey": "UI",
+          "value": 7.83
+        },
+        {
+          "criteriaKey": "Inovação",
+          "value": 7.0
+        }
+      ]
+    },
+    "time-3": {
+      "project": "Convite Online",
+      "description": "Plataforma para criação de convites digitais.",
+      "githubUrl": "https://github.com/ProgramadoresSemPatria/Team3",
+      "scores": [
+        {
+          "criteriaKey": "Clean Code",
+          "value": 8.17
+        },
+        {
+          "criteriaKey": "Estrutura",
+          "value": 8.43
+        },
+        {
+          "criteriaKey": "UI",
+          "value": 6.83
+        },
+        {
+          "criteriaKey": "Inovação",
+          "value": 6.67
+        }
+      ]
+    },
+    "time-4": {
+      "project": "FreelaCRM",
+      "description": "CRM para freelancers com integração Stripe.",
+      "githubUrl": "https://github.com/ProgramadoresSemPatria/Team04---Code-Builders",
+      "scores": [
+        {
+          "criteriaKey": "Clean Code",
+          "value": 8.17
+        },
+        {
+          "criteriaKey": "Estrutura",
+          "value": 8.73
+        },
+        {
+          "criteriaKey": "UI",
+          "value": 7.67
+        },
+        {
+          "criteriaKey": "Inovação",
+          "value": 7.33
+        }
+      ]
+    },
+    "time-5": {
+      "project": "Career Manager",
+      "description": "Sistema de tracking de vagas de emprego.",
+      "githubUrl": "https://github.com/ProgramadoresSemPatria/Time-5",
+      "scores": [
+        {
+          "criteriaKey": "Clean Code",
+          "value": 8.97
+        },
+        {
+          "criteriaKey": "Estrutura",
+          "value": 8.27
+        },
+        {
+          "criteriaKey": "UI",
+          "value": 7.83
+        },
+        {
+          "criteriaKey": "Inovação",
+          "value": 7.83
+        }
+      ]
+    },
+    "time-6": {
+      "project": "OpenSource Search",
+      "description": "Busca de repositórios open-source com integração à API do GitHub.",
+      "githubUrl": "https://github.com/ProgramadoresSemPatria/hackathon-team06-openSourceRadar",
+      "scores": [
+        {
+          "criteriaKey": "Clean Code",
+          "value": 8.0
+        },
+        {
+          "criteriaKey": "Estrutura",
+          "value": 7.67
+        },
+        {
+          "criteriaKey": "UI",
+          "value": 9.33
+        },
+        {
+          "criteriaKey": "Inovação",
+          "value": 8.33
+        }
+      ]
+    },
+    "time-7": {
+      "project": "Conselheiros por IA",
+      "description": "Sistema de conselhos empresariais via IA com validação de e-mail e voz.",
+      "githubUrl": "https://github.com/ProgramadoresSemPatria/boardroom-team-07",
+      "scores": [
+        {
+          "criteriaKey": "Clean Code",
+          "value": 8.1
+        },
+        {
+          "criteriaKey": "Estrutura",
+          "value": 8.33
+        },
+        {
+          "criteriaKey": "UI",
+          "value": 9.0
+        },
+        {
+          "criteriaKey": "Inovação",
+          "value": 9.17
+        }
+      ]
+    },
+    "time-8": {
+      "project": "EventoFácil",
+      "description": "Plataforma para organização de eventos entre amigos.",
+      "githubUrl": "https://github.com/ProgramadoresSemPatria/DeTeam-8",
+      "scores": [
+        {
+          "criteriaKey": "Clean Code",
+          "value": 7.87
+        },
+        {
+          "criteriaKey": "Estrutura",
+          "value": 6.5
+        },
+        {
+          "criteriaKey": "UI",
+          "value": 8.17
+        },
+        {
+          "criteriaKey": "Inovação",
+          "value": 7.33
+        }
+      ]
+    },
+    "time-9": {
+      "project": "GoFit",
+      "description": "Aplicativo para planejamento de treinos físicos.",
+      "githubUrl": "https://github.com/ProgramadoresSemPatria/Team-9",
+      "scores": [
+        {
+          "criteriaKey": "Clean Code",
+          "value": 7.83
+        },
+        {
+          "criteriaKey": "Estrutura",
+          "value": 8.17
+        },
+        {
+          "criteriaKey": "UI",
+          "value": 7.5
+        },
+        {
+          "criteriaKey": "Inovação",
+          "value": 6.83
+        }
+      ]
+    },
+    "time-10": {
+      "project": "ShiftEase",
+      "description": "Sistema para troca de turnos em empresas.",
+      "githubUrl": "https://github.com/ProgramadoresSemPatria/ShiftEase-Team-10",
+      "scores": [
+        {
+          "criteriaKey": "Clean Code",
+          "value": 7.83
+        },
+        {
+          "criteriaKey": "Estrutura",
+          "value": 8.33
+        },
+        {
+          "criteriaKey": "UI",
+          "value": 7.57
+        },
+        {
+          "criteriaKey": "Inovação",
+          "value": 7.67
+        }
+      ]
+    }
+  },
+  "hb02-2025": {
+    "criteria": [
+      "Média dos juízes"
+    ],
+    "scoringNote": "Classificação oficial por pontos de colocação do time (1º = 100 pts, 2º = 75 pts, etc.). A média dos juízes é a média aritmética de Victor Pietro e Caique Ribeiro (0–10). O ranking individual soma os pontos de cada participante na edição.",
+    "time-1": {
+      "project": "Vaza",
+      "description": "Assistente de imigração com IA — orientação personalizada sobre vistos, documentação e planejamento.",
+      "githubUrl": "https://github.com/ProgramadoresSemPatria/HB02-2025_vaza",
+      "scores": [
+        {
+          "criteriaKey": "Média dos juízes",
+          "value": 8.45
+        }
+      ]
+    },
+    "time-6": {
+      "project": "TravelWise",
+      "description": "Gera roteiros de viagem e guias de realocação internacional com IA.",
+      "githubUrl": "https://github.com/ProgramadoresSemPatria/HB02-2025_DISCIPLES-OF-SOHAM-PAREKH",
+      "scores": [
+        {
+          "criteriaKey": "Média dos juízes",
+          "value": 8.15
+        }
+      ]
+    },
+    "time-4": {
+      "project": "Flerte AI",
+      "description": "Assistente mobile para dicas de respostas em conversas e análise de prints de chat.",
+      "githubUrl": "https://github.com/ProgramadoresSemPatria/HB02-2025_flerte_ai",
+      "scores": [
+        {
+          "criteriaKey": "Média dos juízes",
+          "value": 7.9
+        }
+      ]
+    },
+    "time-5": {
+      "project": "Study Buddy",
+      "description": "Transforma PDFs, textos e aulas em resumos, flashcards e quizzes com IA.",
+      "githubUrl": "https://github.com/ProgramadoresSemPatria/HB02-2025_taipescriptos",
+      "scores": [
+        {
+          "criteriaKey": "Média dos juízes",
+          "value": 7.65
+        }
+      ]
+    },
+    "time-2": {
+      "project": "Veste AI",
+      "description": "Personal stylist com IA — envie uma foto do look e receba dicas de estilo.",
+      "githubUrl": "https://github.com/ProgramadoresSemPatria/HB02-2025_braindancers",
+      "scores": [
+        {
+          "criteriaKey": "Média dos juízes",
+          "value": 7.65
+        }
+      ]
+    },
+    "time-3": {
+      "project": "NotaFácil AI",
+      "description": "Assistente de IA para emissão e gestão de notas fiscais.",
+      "githubUrl": "https://github.com/ProgramadoresSemPatria/HB02-2025_notafacil_ai",
+      "scores": [
+        {
+          "criteriaKey": "Média dos juízes",
+          "value": 6.0
+        }
+      ]
+    }
+  },
+  "hb03-2025": {
+    "criteria": [
+      "Clean Code",
+      "Estrutura",
+      "UI",
+      "Inovação"
+    ],
+    "scoringNote": "Nesta edição, os pontos de colocação foram dobrados em relação às anteriores (1º = 200 pts, 2º = 150 pts, 3º = 100 pts, 4º = 60 pts — o dobro de 100/75/50/30), para dar mais peso à 3ª etapa no ranking anual e aumentar a competitividade. As notas por critério são a média de Caique Ribeiro e André Wlodkovski (0–10); a média final é a média aritmética dos quatro critérios. O ranking individual soma os pontos de cada participante na edição.",
+    "time-2": {
+      "project": "Bug to PR",
+      "description": "Analisa stack traces de erro e gera Pull Requests com correções automaticamente via IA.",
+      "githubUrl": "https://github.com/ProgramadoresSemPatria/HB03-2025_BUG_TO_PR",
+      "scores": [
+        { "criteriaKey": "Clean Code", "value": 9.5 },
+        { "criteriaKey": "Estrutura", "value": 9.1 },
+        { "criteriaKey": "UI", "value": 8.5 },
+        { "criteriaKey": "Inovação", "value": 9.25 }
+      ]
+    },
+    "time-3": {
+      "project": "DXGen",
+      "description": "CLI com IA e RAG para gerar documentação técnica de projetos, com GitHub App para PRs.",
+      "githubUrl": "https://github.com/ProgramadoresSemPatria/HB03-2025_dxgen",
+      "scores": [
+        { "criteriaKey": "Clean Code", "value": 9.0 },
+        { "criteriaKey": "Estrutura", "value": 8.9 },
+        { "criteriaKey": "UI", "value": 9.15 },
+        { "criteriaKey": "Inovação", "value": 9.25 }
+      ]
+    },
+    "time-4": {
+      "project": "Bugless",
+      "description": "Code review com IA para TypeScript — via CLI local ou revisão automática em Pull Requests.",
+      "githubUrl": "https://github.com/ProgramadoresSemPatria/HB03-2025_bugless",
+      "scores": [
+        { "criteriaKey": "Clean Code", "value": 8.4 },
+        { "criteriaKey": "Estrutura", "value": 9.25 },
+        { "criteriaKey": "UI", "value": 9.0 },
+        { "criteriaKey": "Inovação", "value": 9.45 }
+      ]
+    },
+    "time-1": {
+      "project": "Unvibe",
+      "description": "GitHub App e dashboard com IA para revisar, proteger e enviar código com mais confiança.",
+      "githubUrl": "https://github.com/ProgramadoresSemPatria/HB03-2025-unvibe",
+      "scores": [
+        { "criteriaKey": "Clean Code", "value": 7.75 },
+        { "criteriaKey": "Estrutura", "value": 8.75 },
+        { "criteriaKey": "UI", "value": 9.65 },
+        { "criteriaKey": "Inovação", "value": 9.0 }
+      ]
+    }
+  },
+  "hb01-2026": {
+    "scoringNote": "Média aritmética das notas de 3 juízes — André Wlodkovski, Yuri e Caique Ribeiro (0–10) — em 4 critérios: Clean Code, Estrutura, UI e Inovação (foco em IA). A nota do time é a média final; cada membro recebe a mesma pontuação do time. Edição encerrada em 18/06/2026.",
+    "time-6": {
+      "project": "socratic-dev",
+      "description": "Tutor socrático de programação — a IA guia com perguntas até você chegar à solução.",
+      "githubUrl": "https://github.com/ProgramadoresSemPatria/socratic-dev",
+      "scores": [
+        { "criteriaKey": "Clean Code", "value": 8.97 },
+        { "criteriaKey": "Estrutura", "value": 8.67 },
+        { "criteriaKey": "UI", "value": 9.37 },
+        { "criteriaKey": "Inovação", "value": 9.4 }
+      ]
+    },
+    "time-1": {
+      "project": "Hone",
+      "description": "Plataforma de mock interview técnico com IA, personalizada pelo seu currículo.",
+      "githubUrl": "https://github.com/ProgramadoresSemPatria/HB01-2026-ai-mock-interview",
+      "scores": [
+        { "criteriaKey": "Clean Code", "value": 9.23 },
+        { "criteriaKey": "Estrutura", "value": 9.0 },
+        { "criteriaKey": "UI", "value": 8.77 },
+        { "criteriaKey": "Inovação", "value": 7.6 }
+      ]
+    },
+    "time-4": {
+      "project": "Career Forge",
+      "description": "Trilha de aprendizado adaptativa com diagnóstico, validação por entrevista e roadmap gerado por IA.",
+      "githubUrl": "https://github.com/ProgramadoresSemPatria/HB01-2026_soft-push",
+      "scores": [
+        { "criteriaKey": "Clean Code", "value": 8.67 },
+        { "criteriaKey": "Estrutura", "value": 8.67 },
+        { "criteriaKey": "UI", "value": 8.17 },
+        { "criteriaKey": "Inovação", "value": 8.77 }
+      ]
+    },
+    "time-5": {
+      "project": "CareerSync",
+      "description": "Preparação para entrevistas técnicas — match com vaga, plano de estudo e simulação por áudio.",
+      "githubUrl": "https://github.com/ProgramadoresSemPatria/HB01-2026_CareerSync",
+      "scores": [
+        { "criteriaKey": "Clean Code", "value": 8.93 },
+        { "criteriaKey": "Estrutura", "value": 8.57 },
+        { "criteriaKey": "UI", "value": 8.33 },
+        { "criteriaKey": "Inovação", "value": 7.93 }
+      ]
+    },
+    "time-3": {
+      "project": "GitReview",
+      "description": "Auditor de portfólio no GitHub com análise de IA do ponto de vista de um recrutador.",
+      "githubUrl": "https://github.com/ProgramadoresSemPatria/HB01-2026_git_review",
+      "scores": [
+        { "criteriaKey": "Clean Code", "value": 8.8 },
+        { "criteriaKey": "Estrutura", "value": 8.17 },
+        { "criteriaKey": "UI", "value": 7.9 },
+        { "criteriaKey": "Inovação", "value": 8.3 }
+      ]
+    },
+    "time-2": {
+      "project": "The Mirror",
+      "description": "Simulador adversarial de entrevista técnica com cenários de incidentes em produção.",
+      "githubUrl": "https://github.com/ProgramadoresSemPatria/HB01-2026_the-mirror",
+      "scores": [
+        { "criteriaKey": "Clean Code", "value": 8.63 },
+        { "criteriaKey": "Estrutura", "value": 8.17 },
+        { "criteriaKey": "UI", "value": 7.67 },
+        { "criteriaKey": "Inovação", "value": 8.17 }
+      ]
+    }
+  }
+}
