@@ -1,7 +1,6 @@
 import type { Metadata } from 'next'
 import { Montserrat } from 'next/font/google'
 import './globals.css'
-import { ConvexClientProvider } from '@/components/convex-provider'
 
 const montserrat = Montserrat({
   subsets: ['latin'],
@@ -14,18 +13,10 @@ export const metadata: Metadata = {
   description: 'Plataforma oficial do hackathon da comunidade Borderless',
 }
 
-export default function RootLayout({
-  children,
-}: {
-  children: React.ReactNode
-}) {
+export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="pt-BR" className="dark">
-      <body className={`${montserrat.variable} antialiased`}>
-        <ConvexClientProvider>
-          {children}
-        </ConvexClientProvider>
-      </body>
+      <body className={`${montserrat.variable} antialiased`}>{children}</body>
     </html>
   )
 }

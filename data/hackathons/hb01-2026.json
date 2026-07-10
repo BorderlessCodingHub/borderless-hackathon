@@ -1,0 +1,416 @@
+{
+  "slug": "hb01-2026",
+  "name": "Borderless Hackathon",
+  "edition": "2026 — 1ª Edição",
+  "date": "18 de junho de 2026",
+  "status": "finished",
+  "githubPrefix": "HB01-2026",
+  "scoringModel": "jury",
+  "scoringNote": "Média aritmética das notas de 3 juízes — André Wlodkovski, Yuri e Caique Ribeiro (0–10) — em 4 critérios: Clean Code, Estrutura, UI e Inovação (foco em IA). A nota do time é a média final; cada membro recebe a mesma pontuação do time. Edição encerrada em 18/06/2026.",
+  "criteria": [
+    "Clean Code",
+    "Estrutura",
+    "UI",
+    "Inovação"
+  ],
+  "teams": [
+    {
+      "id": "time-6",
+      "name": "Team 06",
+      "project": "socratic-dev",
+      "description": "Tutor socrático de programação — a IA guia com perguntas até você chegar à solução.",
+      "tags": [],
+      "position": 1,
+      "totalScore": 9.1,
+      "scores": [
+        {
+          "criteriaKey": "Clean Code",
+          "value": 8.97
+        },
+        {
+          "criteriaKey": "Estrutura",
+          "value": 8.67
+        },
+        {
+          "criteriaKey": "UI",
+          "value": 9.37
+        },
+        {
+          "criteriaKey": "Inovação",
+          "value": 9.4
+        }
+      ],
+      "members": [
+        "p-16",
+        "p-17",
+        "p-18"
+      ],
+      "githubUrl": "https://github.com/ProgramadoresSemPatria/socratic-dev"
+    },
+    {
+      "id": "time-1",
+      "name": "Team 01",
+      "project": "Hone",
+      "description": "Plataforma de mock interview técnico com IA, personalizada pelo seu currículo.",
+      "tags": [],
+      "position": 2,
+      "totalScore": 8.65,
+      "scores": [
+        {
+          "criteriaKey": "Clean Code",
+          "value": 9.23
+        },
+        {
+          "criteriaKey": "Estrutura",
+          "value": 9
+        },
+        {
+          "criteriaKey": "UI",
+          "value": 8.77
+        },
+        {
+          "criteriaKey": "Inovação",
+          "value": 7.6
+        }
+      ],
+      "members": [
+        "p-1",
+        "p-2",
+        "p-3"
+      ],
+      "githubUrl": "https://github.com/ProgramadoresSemPatria/HB01-2026-ai-mock-interview"
+    },
+    {
+      "id": "time-4",
+      "name": "Team 04",
+      "project": "Career Forge",
+      "description": "Trilha de aprendizado adaptativa com diagnóstico, validação por entrevista e roadmap gerado por IA.",
+      "tags": [],
+      "position": 3,
+      "totalScore": 8.57,
+      "scores": [
+        {
+          "criteriaKey": "Clean Code",
+          "value": 8.67
+        },
+        {
+          "criteriaKey": "Estrutura",
+          "value": 8.67
+        },
+        {
+          "criteriaKey": "UI",
+          "value": 8.17
+        },
+        {
+          "criteriaKey": "Inovação",
+          "value": 8.77
+        }
+      ],
+      "members": [
+        "p-9",
+        "p-10",
+        "p-11"
+      ],
+      "githubUrl": "https://github.com/ProgramadoresSemPatria/HB01-2026_soft-push"
+    },
+    {
+      "id": "time-5",
+      "name": "Team 05",
+      "project": "CareerSync",
+      "description": "Preparação para entrevistas técnicas — match com vaga, plano de estudo e simulação por áudio.",
+      "tags": [],
+      "position": 4,
+      "totalScore": 8.44,
+      "scores": [
+        {
+          "criteriaKey": "Clean Code",
+          "value": 8.93
+        },
+        {
+          "criteriaKey": "Estrutura",
+          "value": 8.57
+        },
+        {
+          "criteriaKey": "UI",
+          "value": 8.33
+        },
+        {
+          "criteriaKey": "Inovação",
+          "value": 7.93
+        }
+      ],
+      "members": [
+        "p-12",
+        "p-13",
+        "p-14",
+        "p-15"
+      ],
+      "githubUrl": "https://github.com/ProgramadoresSemPatria/HB01-2026_CareerSync"
+    },
+    {
+      "id": "time-3",
+      "name": "Team 03",
+      "project": "GitReview",
+      "description": "Auditor de portfólio no GitHub com análise de IA do ponto de vista de um recrutador.",
+      "tags": [],
+      "position": 5,
+      "totalScore": 8.29,
+      "scores": [
+        {
+          "criteriaKey": "Clean Code",
+          "value": 8.8
+        },
+        {
+          "criteriaKey": "Estrutura",
+          "value": 8.17
+        },
+        {
+          "criteriaKey": "UI",
+          "value": 7.9
+        },
+        {
+          "criteriaKey": "Inovação",
+          "value": 8.3
+        }
+      ],
+      "members": [
+        "p-6",
+        "p-7",
+        "p-8"
+      ],
+      "githubUrl": "https://github.com/ProgramadoresSemPatria/HB01-2026_git_review"
+    },
+    {
+      "id": "time-2",
+      "name": "Team 02",
+      "project": "The Mirror",
+      "description": "Simulador adversarial de entrevista técnica com cenários de incidentes em produção.",
+      "tags": [],
+      "position": 6,
+      "totalScore": 8.16,
+      "scores": [
+        {
+          "criteriaKey": "Clean Code",
+          "value": 8.63
+        },
+        {
+          "criteriaKey": "Estrutura",
+          "value": 8.17
+        },
+        {
+          "criteriaKey": "UI",
+          "value": 7.67
+        },
+        {
+          "criteriaKey": "Inovação",
+          "value": 8.17
+        }
+      ],
+      "members": [
+        "p-4",
+        "p-5"
+      ],
+      "githubUrl": "https://github.com/ProgramadoresSemPatria/HB01-2026_the-mirror"
+    }
+  ],
+  "participants": [
+    {
+      "id": "p-1",
+      "name": "Guilherme Resende",
+      "teamId": "time-1",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 0,
+        "totalPoints": 8.65
+      }
+    },
+    {
+      "id": "p-2",
+      "name": "Nathan Vinicius",
+      "teamId": "time-1",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 0,
+        "totalPoints": 8.65
+      }
+    },
+    {
+      "id": "p-3",
+      "name": "Pablo Cruz",
+      "teamId": "time-1",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 0,
+        "totalPoints": 8.65
+      }
+    },
+    {
+      "id": "p-4",
+      "name": "Francisco Alexandro",
+      "teamId": "time-2",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 0,
+        "totalPoints": 8.16
+      }
+    },
+    {
+      "id": "p-5",
+      "name": "Yago Ferreira",
+      "teamId": "time-2",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 0,
+        "totalPoints": 8.16
+      }
+    },
+    {
+      "id": "p-6",
+      "name": "Eduardo Zago",
+      "teamId": "time-3",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 0,
+        "totalPoints": 8.29
+      }
+    },
+    {
+      "id": "p-7",
+      "name": "Gabriel Lopes",
+      "teamId": "time-3",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 0,
+        "totalPoints": 8.29
+      }
+    },
+    {
+      "id": "p-8",
+      "name": "Joao Vitor Araújo",
+      "teamId": "time-3",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 0,
+        "totalPoints": 8.29
+      }
+    },
+    {
+      "id": "p-9",
+      "name": "Matheus Oliveira",
+      "teamId": "time-4",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 0,
+        "totalPoints": 8.57
+      }
+    },
+    {
+      "id": "p-10",
+      "name": "Pedro Alano",
+      "teamId": "time-4",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 0,
+        "totalPoints": 8.57
+      }
+    },
+    {
+      "id": "p-11",
+      "name": "Arthur Araujo",
+      "teamId": "time-4",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 0,
+        "totalPoints": 8.57
+      }
+    },
+    {
+      "id": "p-12",
+      "name": "Thiago Emanoel",
+      "teamId": "time-5",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 0,
+        "totalPoints": 8.44
+      }
+    },
+    {
+      "id": "p-13",
+      "name": "Felipe Hora Torres",
+      "teamId": "time-5",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 0,
+        "totalPoints": 8.44
+      }
+    },
+    {
+      "id": "p-14",
+      "name": "Julio Cedraz",
+      "teamId": "time-5",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 0,
+        "totalPoints": 8.44
+      }
+    },
+    {
+      "id": "p-15",
+      "name": "Naua Holanda",
+      "teamId": "time-5",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 0,
+        "totalPoints": 8.44
+      }
+    },
+    {
+      "id": "p-16",
+      "name": "Luiz Renan",
+      "teamId": "time-6",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 0,
+        "totalPoints": 9.1
+      }
+    },
+    {
+      "id": "p-17",
+      "name": "Levy Rodrigues",
+      "teamId": "time-6",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 0,
+        "totalPoints": 9.1
+      }
+    },
+    {
+      "id": "p-18",
+      "name": "Luciano Faria",
+      "teamId": "time-6",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 0,
+        "totalPoints": 9.1
+      }
+    }
+  ]
+}

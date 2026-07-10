@@ -1,0 +1,344 @@
+{
+  "slug": "hb03-2025",
+  "name": "Borderless Hackathon",
+  "edition": "2025 — 3ª Edição",
+  "date": "Outubro de 2025",
+  "status": "finished",
+  "githubPrefix": "HB03-2025",
+  "scoringModel": "placement",
+  "scoringNote": "Nesta edição, os pontos de colocação foram dobrados em relação às anteriores (1º = 200 pts, 2º = 150 pts, 3º = 100 pts, 4º = 60 pts — o dobro de 100/75/50/30), para dar mais peso à 3ª etapa no ranking anual e aumentar a competitividade. As notas por critério são a média de Caique Ribeiro e André Wlodkovski (0–10); a média final é a média aritmética dos quatro critérios. O ranking individual soma os pontos de cada participante na edição.",
+  "criteria": [
+    "Clean Code",
+    "Estrutura",
+    "UI",
+    "Inovação"
+  ],
+  "teams": [
+    {
+      "id": "time-2",
+      "name": "Time 2",
+      "project": "Bug to PR",
+      "description": "Analisa stack traces de erro e gera Pull Requests com correções automaticamente via IA.",
+      "tags": [],
+      "position": 1,
+      "totalScore": 200,
+      "scores": [
+        {
+          "criteriaKey": "Clean Code",
+          "value": 9.5
+        },
+        {
+          "criteriaKey": "Estrutura",
+          "value": 9.1
+        },
+        {
+          "criteriaKey": "UI",
+          "value": 8.5
+        },
+        {
+          "criteriaKey": "Inovação",
+          "value": 9.25
+        }
+      ],
+      "members": [
+        "p-5",
+        "p-6",
+        "p-7",
+        "p-8"
+      ],
+      "githubUrl": "https://github.com/ProgramadoresSemPatria/HB03-2025_BUG_TO_PR"
+    },
+    {
+      "id": "time-3",
+      "name": "Time 3",
+      "project": "DXGen",
+      "description": "CLI com IA e RAG para gerar documentação técnica de projetos, com GitHub App para PRs.",
+      "tags": [],
+      "position": 2,
+      "totalScore": 150,
+      "scores": [
+        {
+          "criteriaKey": "Clean Code",
+          "value": 9
+        },
+        {
+          "criteriaKey": "Estrutura",
+          "value": 8.9
+        },
+        {
+          "criteriaKey": "UI",
+          "value": 9.15
+        },
+        {
+          "criteriaKey": "Inovação",
+          "value": 9.25
+        }
+      ],
+      "members": [
+        "p-9",
+        "p-10",
+        "p-11",
+        "p-12"
+      ],
+      "githubUrl": "https://github.com/ProgramadoresSemPatria/HB03-2025_dxgen"
+    },
+    {
+      "id": "time-4",
+      "name": "Time 4",
+      "project": "Bugless",
+      "description": "Code review com IA para TypeScript — via CLI local ou revisão automática em Pull Requests.",
+      "tags": [],
+      "position": 3,
+      "totalScore": 100,
+      "scores": [
+        {
+          "criteriaKey": "Clean Code",
+          "value": 8.4
+        },
+        {
+          "criteriaKey": "Estrutura",
+          "value": 9.25
+        },
+        {
+          "criteriaKey": "UI",
+          "value": 9
+        },
+        {
+          "criteriaKey": "Inovação",
+          "value": 9.45
+        }
+      ],
+      "members": [
+        "p-13",
+        "p-14",
+        "p-15",
+        "p-16",
+        "p-17"
+      ],
+      "githubUrl": "https://github.com/ProgramadoresSemPatria/HB03-2025_bugless"
+    },
+    {
+      "id": "time-1",
+      "name": "Time 1",
+      "project": "Unvibe",
+      "description": "GitHub App e dashboard com IA para revisar, proteger e enviar código com mais confiança.",
+      "tags": [],
+      "position": 4,
+      "totalScore": 60,
+      "scores": [
+        {
+          "criteriaKey": "Clean Code",
+          "value": 7.75
+        },
+        {
+          "criteriaKey": "Estrutura",
+          "value": 8.75
+        },
+        {
+          "criteriaKey": "UI",
+          "value": 9.65
+        },
+        {
+          "criteriaKey": "Inovação",
+          "value": 9
+        }
+      ],
+      "members": [
+        "p-1",
+        "p-2",
+        "p-3",
+        "p-4"
+      ],
+      "githubUrl": "https://github.com/ProgramadoresSemPatria/HB03-2025-unvibe"
+    }
+  ],
+  "participants": [
+    {
+      "id": "p-1",
+      "name": "Arthur Duarte",
+      "teamId": "time-1",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 60,
+        "totalPoints": 60
+      }
+    },
+    {
+      "id": "p-2",
+      "name": "Kauê Alves Vecchia",
+      "teamId": "time-1",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 60,
+        "totalPoints": 60
+      }
+    },
+    {
+      "id": "p-3",
+      "name": "Raphael Melo",
+      "teamId": "time-1",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 60,
+        "totalPoints": 60
+      }
+    },
+    {
+      "id": "p-4",
+      "name": "João Gabriel Saraiva",
+      "teamId": "time-1",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 60,
+        "totalPoints": 60
+      }
+    },
+    {
+      "id": "p-5",
+      "name": "Gabriel Nunes",
+      "teamId": "time-2",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 200,
+        "totalPoints": 200
+      }
+    },
+    {
+      "id": "p-6",
+      "name": "Lucas Nery",
+      "teamId": "time-2",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 200,
+        "totalPoints": 200
+      }
+    },
+    {
+      "id": "p-7",
+      "name": "Eduardo Zago",
+      "teamId": "time-2",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 200,
+        "totalPoints": 200
+      }
+    },
+    {
+      "id": "p-8",
+      "name": "Luiz Renan",
+      "teamId": "time-2",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 200,
+        "totalPoints": 200
+      }
+    },
+    {
+      "id": "p-9",
+      "name": "Gabriel Souza",
+      "teamId": "time-3",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 150,
+        "totalPoints": 150
+      }
+    },
+    {
+      "id": "p-10",
+      "name": "Pedro Henrique Gago",
+      "teamId": "time-3",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 150,
+        "totalPoints": 150
+      }
+    },
+    {
+      "id": "p-11",
+      "name": "Vinicius Nathan",
+      "teamId": "time-3",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 150,
+        "totalPoints": 150
+      }
+    },
+    {
+      "id": "p-12",
+      "name": "Thiago Emanuel",
+      "teamId": "time-3",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 150,
+        "totalPoints": 150
+      }
+    },
+    {
+      "id": "p-13",
+      "name": "Mario Yuri",
+      "teamId": "time-4",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 100,
+        "totalPoints": 100
+      }
+    },
+    {
+      "id": "p-14",
+      "name": "Felipe Torres",
+      "teamId": "time-4",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 100,
+        "totalPoints": 100
+      }
+    },
+    {
+      "id": "p-15",
+      "name": "Levy Rodrigues",
+      "teamId": "time-4",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 100,
+        "totalPoints": 100
+      }
+    },
+    {
+      "id": "p-16",
+      "name": "Francisco Alexandro",
+      "teamId": "time-4",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 100,
+        "totalPoints": 100
+      }
+    },
+    {
+      "id": "p-17",
+      "name": "Pablo Cruz",
+      "teamId": "time-4",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 100,
+        "totalPoints": 100
+      }
+    }
+  ]
+}

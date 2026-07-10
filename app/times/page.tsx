@@ -1,12 +1,5 @@
-import { fetchQuery } from 'convex/nextjs'
-import { api } from '@/convex/_generated/api'
 import { redirect } from 'next/navigation'
 
-export default async function TimesRedirect() {
-  const hackathons = await fetchQuery(api.hackathons.list, {})
-  const latest = hackathons[0]
-  if (latest) {
-    redirect(`/${latest.slug}/times`)
-  }
-  redirect('/')
+export default function TimesRedirect() {
+  redirect('/hb01-2026/times')
 }

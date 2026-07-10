@@ -1,0 +1,466 @@
+{
+  "slug": "2025-ranking-anual",
+  "title": "Ranking Anual 2025",
+  "scoringNote": "Soma das pontuações das 3 edições de 2025. Participantes que não competiram em uma edição recebem 0 naquela coluna.",
+  "entries": [
+    {
+      "position": 1,
+      "name": "Gabriel Nunes",
+      "hb01": 75,
+      "hb02": 50,
+      "hb03": 200,
+      "average": 108.33,
+      "total": 325
+    },
+    {
+      "position": 2,
+      "name": "Pedro Henrique Gago",
+      "hb01": 75,
+      "hb02": 75,
+      "hb03": 150,
+      "average": 100,
+      "total": 300
+    },
+    {
+      "position": 3,
+      "name": "Luiz Renan",
+      "hb01": 0,
+      "hb02": 100,
+      "hb03": 200,
+      "average": 100,
+      "total": 300
+    },
+    {
+      "position": 4,
+      "name": "Eduardo Zago",
+      "hb01": 0,
+      "hb02": 100,
+      "hb03": 200,
+      "average": 150,
+      "total": 300
+    },
+    {
+      "position": 5,
+      "name": "Arthur Duarte",
+      "hb01": 100,
+      "hb02": 100,
+      "hb03": 60,
+      "average": 86.67,
+      "total": 260
+    },
+    {
+      "position": 6,
+      "name": "Thiago Emanuel",
+      "hb01": 0,
+      "hb02": 75,
+      "hb03": 150,
+      "average": 112.5,
+      "total": 225
+    },
+    {
+      "position": 7,
+      "name": "Francisco Alexandro",
+      "hb01": 100,
+      "hb02": 0,
+      "hb03": 100,
+      "average": 100,
+      "total": 200
+    },
+    {
+      "position": 8,
+      "name": "Lucas Nery",
+      "hb01": 0,
+      "hb02": 0,
+      "hb03": 200,
+      "average": 200,
+      "total": 200
+    },
+    {
+      "position": 9,
+      "name": "Vinicius Nathan",
+      "hb01": 0,
+      "hb02": 30,
+      "hb03": 150,
+      "average": 90,
+      "total": 180
+    },
+    {
+      "position": 10,
+      "name": "Yago Santos Rodrigues",
+      "hb01": 100,
+      "hb02": 75,
+      "hb03": 0,
+      "average": 87.5,
+      "total": 175
+    },
+    {
+      "position": 11,
+      "name": "Felipe Torres",
+      "hb01": 20,
+      "hb02": 50,
+      "hb03": 100,
+      "average": 56.67,
+      "total": 170
+    },
+    {
+      "position": 12,
+      "name": "Gabriel Souza",
+      "hb01": 0,
+      "hb02": 0,
+      "hb03": 150,
+      "average": 150,
+      "total": 150
+    },
+    {
+      "position": 13,
+      "name": "Raphael Melo",
+      "hb01": 0,
+      "hb02": 50,
+      "hb03": 60,
+      "average": 55,
+      "total": 110
+    },
+    {
+      "position": 14,
+      "name": "Nikolas Konoski",
+      "hb01": 100,
+      "hb02": 0,
+      "hb03": 0,
+      "average": 100,
+      "total": 100
+    },
+    {
+      "position": 15,
+      "name": "Mario Yuri",
+      "hb01": 0,
+      "hb02": 0,
+      "hb03": 100,
+      "average": 100,
+      "total": 100
+    },
+    {
+      "position": 16,
+      "name": "Levy Rodrigues",
+      "hb01": 0,
+      "hb02": 0,
+      "hb03": 100,
+      "average": 100,
+      "total": 100
+    },
+    {
+      "position": 17,
+      "name": "Pablo Cruz",
+      "hb01": 0,
+      "hb02": 0,
+      "hb03": 100,
+      "average": 100,
+      "total": 100
+    },
+    {
+      "position": 18,
+      "name": "Igor de Oliveira",
+      "hb01": 20,
+      "hb02": 75,
+      "hb03": 0,
+      "average": 47.5,
+      "total": 95
+    },
+    {
+      "position": 19,
+      "name": "Kauê Alves Vecchia",
+      "hb01": 0,
+      "hb02": 30,
+      "hb03": 60,
+      "average": 30,
+      "total": 90
+    },
+    {
+      "position": 20,
+      "name": "Gustavo Banãres",
+      "hb01": 50,
+      "hb02": 30,
+      "hb03": 0,
+      "average": 40,
+      "total": 80
+    },
+    {
+      "position": 21,
+      "name": "Lucas Loran Marciano",
+      "hb01": 75,
+      "hb02": 0,
+      "hb03": 0,
+      "average": 75,
+      "total": 75
+    },
+    {
+      "position": 22,
+      "name": "João Vitor Gouvea",
+      "hb01": 75,
+      "hb02": 0,
+      "hb03": 0,
+      "average": 75,
+      "total": 75
+    },
+    {
+      "position": 23,
+      "name": "João Gabriel Saraiva",
+      "hb01": 0,
+      "hb02": 0,
+      "hb03": 60,
+      "average": 60,
+      "total": 60
+    },
+    {
+      "position": 24,
+      "name": "Luam Ramlow",
+      "hb01": 50,
+      "hb02": 0,
+      "hb03": 0,
+      "average": 50,
+      "total": 50
+    },
+    {
+      "position": 25,
+      "name": "Thales Oliveira",
+      "hb01": 50,
+      "hb02": 0,
+      "hb03": 0,
+      "average": 50,
+      "total": 50
+    },
+    {
+      "position": 26,
+      "name": "Douglas Alisson",
+      "hb01": 50,
+      "hb02": 0,
+      "hb03": 0,
+      "average": 50,
+      "total": 50
+    },
+    {
+      "position": 27,
+      "name": "Carlos Henryck",
+      "hb01": 50,
+      "hb02": 0,
+      "hb03": 0,
+      "average": 50,
+      "total": 50
+    },
+    {
+      "position": 28,
+      "name": "Enrico Saito",
+      "hb01": 50,
+      "hb02": 0,
+      "hb03": 0,
+      "average": 50,
+      "total": 50
+    },
+    {
+      "position": 29,
+      "name": "Pablo Matheus",
+      "hb01": 30,
+      "hb02": 20,
+      "hb03": 0,
+      "average": 25,
+      "total": 50
+    },
+    {
+      "position": 30,
+      "name": "Lucas Ghidini",
+      "hb01": 0,
+      "hb02": 50,
+      "hb03": 0,
+      "average": 50,
+      "total": 50
+    },
+    {
+      "position": 31,
+      "name": "Breno Silva",
+      "hb01": 30,
+      "hb02": 0,
+      "hb03": 0,
+      "average": 30,
+      "total": 30
+    },
+    {
+      "position": 32,
+      "name": "Guilherme Lopes",
+      "hb01": 30,
+      "hb02": 0,
+      "hb03": 0,
+      "average": 15,
+      "total": 30
+    },
+    {
+      "position": 33,
+      "name": "Vinicius da Rosa",
+      "hb01": 30,
+      "hb02": 0,
+      "hb03": 0,
+      "average": 30,
+      "total": 30
+    },
+    {
+      "position": 34,
+      "name": "Ricardo Franco",
+      "hb01": 30,
+      "hb02": 0,
+      "hb03": 0,
+      "average": 15,
+      "total": 30
+    },
+    {
+      "position": 35,
+      "name": "Lucas Antônio",
+      "hb01": 30,
+      "hb02": 0,
+      "hb03": 0,
+      "average": 30,
+      "total": 30
+    },
+    {
+      "position": 36,
+      "name": "Lucas Gabriel Donato",
+      "hb01": 30,
+      "hb02": 0,
+      "hb03": 0,
+      "average": 30,
+      "total": 30
+    },
+    {
+      "position": 37,
+      "name": "André Antonio",
+      "hb01": 0,
+      "hb02": 30,
+      "hb03": 0,
+      "average": 30,
+      "total": 30
+    },
+    {
+      "position": 38,
+      "name": "Diego Brito",
+      "hb01": 20,
+      "hb02": 0,
+      "hb03": 0,
+      "average": 20,
+      "total": 20
+    },
+    {
+      "position": 39,
+      "name": "Ramon Alves",
+      "hb01": 20,
+      "hb02": 0,
+      "hb03": 0,
+      "average": 20,
+      "total": 20
+    },
+    {
+      "position": 40,
+      "name": "Vandilson Brito",
+      "hb01": 0,
+      "hb02": 20,
+      "hb03": 0,
+      "average": 10,
+      "total": 20
+    },
+    {
+      "position": 41,
+      "name": "João Roberto Lawall",
+      "hb01": 0,
+      "hb02": 20,
+      "hb03": 0,
+      "average": 10,
+      "total": 20
+    },
+    {
+      "position": 42,
+      "name": "Michel de Oliveira",
+      "hb01": 0,
+      "hb02": 0,
+      "hb03": 0,
+      "average": 0,
+      "total": 0
+    },
+    {
+      "position": 43,
+      "name": "João Vitor Rufino",
+      "hb01": 0,
+      "hb02": 0,
+      "hb03": 0,
+      "average": 0,
+      "total": 0
+    },
+    {
+      "position": 44,
+      "name": "Cauê Alves Barreto",
+      "hb01": 0,
+      "hb02": 0,
+      "hb03": 0,
+      "average": 0,
+      "total": 0
+    },
+    {
+      "position": 45,
+      "name": "Patrick Simões",
+      "hb01": 0,
+      "hb02": 0,
+      "hb03": 0,
+      "average": 0,
+      "total": 0
+    },
+    {
+      "position": 46,
+      "name": "Matheus Reis",
+      "hb01": 0,
+      "hb02": 0,
+      "hb03": 0,
+      "average": 0,
+      "total": 0
+    },
+    {
+      "position": 47,
+      "name": "Eduardo Barreira",
+      "hb01": 0,
+      "hb02": 0,
+      "hb03": 0,
+      "average": 0,
+      "total": 0
+    },
+    {
+      "position": 48,
+      "name": "Pedro Henrique Moreira",
+      "hb01": 0,
+      "hb02": 0,
+      "hb03": 0,
+      "average": 0,
+      "total": 0
+    },
+    {
+      "position": 49,
+      "name": "Edmilson Henrique",
+      "hb01": 0,
+      "hb02": 0,
+      "hb03": 0,
+      "average": 0,
+      "total": 0
+    },
+    {
+      "position": 50,
+      "name": "Jonatas Thomé",
+      "hb01": 0,
+      "hb02": 0,
+      "hb03": 0,
+      "average": 0,
+      "total": 0
+    },
+    {
+      "position": 51,
+      "name": "João Gabriel Figueiredo",
+      "hb01": 0,
+      "hb02": 0,
+      "hb03": 0,
+      "average": 0,
+      "total": 0
+    }
+  ]
+}

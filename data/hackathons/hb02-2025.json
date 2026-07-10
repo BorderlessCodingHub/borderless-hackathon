@@ -1,0 +1,389 @@
+{
+  "slug": "hb02-2025",
+  "name": "Borderless Hackathon",
+  "edition": "2025 — 2ª Edição",
+  "date": "Maio de 2025",
+  "status": "finished",
+  "githubPrefix": "HB02-2025",
+  "scoringModel": "placement",
+  "scoringNote": "Classificação oficial por pontos de colocação do time (1º = 100 pts, 2º = 75 pts, etc.). A média dos juízes é a média aritmética de Victor Pietro e Caique Ribeiro (0–10). O ranking individual soma os pontos de cada participante na edição.",
+  "criteria": [
+    "Média dos juízes"
+  ],
+  "teams": [
+    {
+      "id": "time-1",
+      "name": "Time 1",
+      "project": "Vaza",
+      "description": "Assistente de imigração com IA — orientação personalizada sobre vistos, documentação e planejamento.",
+      "tags": [],
+      "position": 1,
+      "totalScore": 100,
+      "scores": [
+        {
+          "criteriaKey": "Média dos juízes",
+          "value": 8.45
+        }
+      ],
+      "members": [
+        "p-1",
+        "p-2",
+        "p-3"
+      ],
+      "githubUrl": "https://github.com/ProgramadoresSemPatria/HB02-2025_vaza"
+    },
+    {
+      "id": "time-6",
+      "name": "Time 6",
+      "project": "TravelWise",
+      "description": "Gera roteiros de viagem e guias de realocação internacional com IA.",
+      "tags": [],
+      "position": 2,
+      "totalScore": 75,
+      "scores": [
+        {
+          "criteriaKey": "Média dos juízes",
+          "value": 8.15
+        }
+      ],
+      "members": [
+        "p-19",
+        "p-20",
+        "p-21",
+        "p-22"
+      ],
+      "githubUrl": "https://github.com/ProgramadoresSemPatria/HB02-2025_DISCIPLES-OF-SOHAM-PAREKH"
+    },
+    {
+      "id": "time-4",
+      "name": "Time 4",
+      "project": "Flerte AI",
+      "description": "Assistente mobile para dicas de respostas em conversas e análise de prints de chat.",
+      "tags": [],
+      "position": 3,
+      "totalScore": 50,
+      "scores": [
+        {
+          "criteriaKey": "Média dos juízes",
+          "value": 7.9
+        }
+      ],
+      "members": [
+        "p-11",
+        "p-12",
+        "p-13",
+        "p-14"
+      ],
+      "githubUrl": "https://github.com/ProgramadoresSemPatria/HB02-2025_flerte_ai"
+    },
+    {
+      "id": "time-5",
+      "name": "Time 5",
+      "project": "Study Buddy",
+      "description": "Transforma PDFs, textos e aulas em resumos, flashcards e quizzes com IA.",
+      "tags": [],
+      "position": 4,
+      "totalScore": 30,
+      "scores": [
+        {
+          "criteriaKey": "Média dos juízes",
+          "value": 7.65
+        }
+      ],
+      "members": [
+        "p-15",
+        "p-16",
+        "p-17",
+        "p-18"
+      ],
+      "githubUrl": "https://github.com/ProgramadoresSemPatria/HB02-2025_taipescriptos"
+    },
+    {
+      "id": "time-2",
+      "name": "Time 2",
+      "project": "Veste AI",
+      "description": "Personal stylist com IA — envie uma foto do look e receba dicas de estilo.",
+      "tags": [],
+      "position": 5,
+      "totalScore": 20,
+      "scores": [
+        {
+          "criteriaKey": "Média dos juízes",
+          "value": 7.65
+        }
+      ],
+      "members": [
+        "p-4",
+        "p-5",
+        "p-6"
+      ],
+      "githubUrl": "https://github.com/ProgramadoresSemPatria/HB02-2025_braindancers"
+    },
+    {
+      "id": "time-3",
+      "name": "Time 3",
+      "project": "NotaFácil AI",
+      "description": "Assistente de IA para emissão e gestão de notas fiscais.",
+      "tags": [],
+      "position": null,
+      "totalScore": 0,
+      "scores": [
+        {
+          "criteriaKey": "Média dos juízes",
+          "value": 6
+        }
+      ],
+      "members": [
+        "p-7",
+        "p-8",
+        "p-9",
+        "p-10"
+      ],
+      "githubUrl": "https://github.com/ProgramadoresSemPatria/HB02-2025_notafacil_ai"
+    }
+  ],
+  "participants": [
+    {
+      "id": "p-1",
+      "name": "Arthur Duarte",
+      "teamId": "time-1",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 100,
+        "totalPoints": 100
+      }
+    },
+    {
+      "id": "p-2",
+      "name": "Luiz Renan",
+      "teamId": "time-1",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 100,
+        "totalPoints": 100
+      }
+    },
+    {
+      "id": "p-3",
+      "name": "Eduardo Zago",
+      "teamId": "time-1",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 100,
+        "totalPoints": 100
+      }
+    },
+    {
+      "id": "p-4",
+      "name": "João Roberto Lawall",
+      "teamId": "time-2",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 20,
+        "totalPoints": 20
+      }
+    },
+    {
+      "id": "p-5",
+      "name": "Pablo Matheus",
+      "teamId": "time-2",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 20,
+        "totalPoints": 20
+      }
+    },
+    {
+      "id": "p-6",
+      "name": "Vandilson Brito",
+      "teamId": "time-2",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 20,
+        "totalPoints": 20
+      }
+    },
+    {
+      "id": "p-7",
+      "name": "Edmilson Henrique",
+      "teamId": "time-3",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 0,
+        "totalPoints": 0
+      }
+    },
+    {
+      "id": "p-8",
+      "name": "Jônatas Thomé",
+      "teamId": "time-3",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 0,
+        "totalPoints": 0
+      }
+    },
+    {
+      "id": "p-9",
+      "name": "Guilherme Lopes",
+      "teamId": "time-3",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 0,
+        "totalPoints": 0
+      }
+    },
+    {
+      "id": "p-10",
+      "name": "Ricardo Franco",
+      "teamId": "time-3",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 0,
+        "totalPoints": 0
+      }
+    },
+    {
+      "id": "p-11",
+      "name": "Gabriel Nunes",
+      "teamId": "time-4",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 50,
+        "totalPoints": 50
+      }
+    },
+    {
+      "id": "p-12",
+      "name": "Felipe Torres",
+      "teamId": "time-4",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 50,
+        "totalPoints": 50
+      }
+    },
+    {
+      "id": "p-13",
+      "name": "Raphael Melo",
+      "teamId": "time-4",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 50,
+        "totalPoints": 50
+      }
+    },
+    {
+      "id": "p-14",
+      "name": "Lucas Ghidini",
+      "teamId": "time-4",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 50,
+        "totalPoints": 50
+      }
+    },
+    {
+      "id": "p-15",
+      "name": "Gustavo Banãres",
+      "teamId": "time-5",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 30,
+        "totalPoints": 30
+      }
+    },
+    {
+      "id": "p-16",
+      "name": "Kauê Alves Vecchia",
+      "teamId": "time-5",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 30,
+        "totalPoints": 30
+      }
+    },
+    {
+      "id": "p-17",
+      "name": "Vinicius Nathan",
+      "teamId": "time-5",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 30,
+        "totalPoints": 30
+      }
+    },
+    {
+      "id": "p-18",
+      "name": "André Antonio",
+      "teamId": "time-5",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 30,
+        "totalPoints": 30
+      }
+    },
+    {
+      "id": "p-19",
+      "name": "Pedro Henrique Gago",
+      "teamId": "time-6",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 75,
+        "totalPoints": 75
+      }
+    },
+    {
+      "id": "p-20",
+      "name": "Igor de Oliveira",
+      "teamId": "time-6",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 75,
+        "totalPoints": 75
+      }
+    },
+    {
+      "id": "p-21",
+      "name": "Yago Santos Rodrigues",
+      "teamId": "time-6",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 75,
+        "totalPoints": 75
+      }
+    },
+    {
+      "id": "p-22",
+      "name": "Thiago Emanuel",
+      "teamId": "time-6",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 75,
+        "totalPoints": 75
+      }
+    }
+  ]
+}

@@ -1,0 +1,764 @@
+{
+  "slug": "hb01-2025",
+  "name": "Borderless Hackathon",
+  "edition": "2025 — 1ª Edição",
+  "date": "Março de 2025",
+  "status": "finished",
+  "githubPrefix": "HB01-2025",
+  "scoringModel": "placement",
+  "scoringNote": "Classificação oficial por pontos de colocação do time (1º = 100 pts, 2º = 75 pts, etc.). As notas por critério são a média dos 3 juízes (0–10). O ranking individual soma os pontos de cada participante na edição.",
+  "criteria": [
+    "Clean Code",
+    "Estrutura",
+    "UI",
+    "Inovação"
+  ],
+  "teams": [
+    {
+      "id": "time-7",
+      "name": "Time 7",
+      "project": "Conselheiros por IA",
+      "description": "Sistema de conselhos empresariais via IA com validação de e-mail e voz.",
+      "tags": [],
+      "position": 1,
+      "totalScore": 100,
+      "scores": [
+        {
+          "criteriaKey": "Clean Code",
+          "value": 8.1
+        },
+        {
+          "criteriaKey": "Estrutura",
+          "value": 8.33
+        },
+        {
+          "criteriaKey": "UI",
+          "value": 9
+        },
+        {
+          "criteriaKey": "Inovação",
+          "value": 9.17
+        }
+      ],
+      "members": [
+        "p-23",
+        "p-24",
+        "p-25",
+        "p-26"
+      ],
+      "githubUrl": "https://github.com/ProgramadoresSemPatria/boardroom-team-07"
+    },
+    {
+      "id": "time-1",
+      "name": "Time 1",
+      "project": "FeedAI",
+      "description": "Dashboard para resumir feedbacks de clientes usando IA.",
+      "tags": [],
+      "position": 2,
+      "totalScore": 75,
+      "scores": [
+        {
+          "criteriaKey": "Clean Code",
+          "value": 8.17
+        },
+        {
+          "criteriaKey": "Estrutura",
+          "value": 8.33
+        },
+        {
+          "criteriaKey": "UI",
+          "value": 8.93
+        },
+        {
+          "criteriaKey": "Inovação",
+          "value": 9.17
+        }
+      ],
+      "members": [
+        "p-1",
+        "p-2",
+        "p-3",
+        "p-4"
+      ],
+      "githubUrl": "https://github.com/ProgramadoresSemPatria/Team-1"
+    },
+    {
+      "id": "time-5",
+      "name": "Time 5",
+      "project": "Career Manager",
+      "description": "Sistema de tracking de vagas de emprego.",
+      "tags": [],
+      "position": 3,
+      "totalScore": 50,
+      "scores": [
+        {
+          "criteriaKey": "Clean Code",
+          "value": 8.97
+        },
+        {
+          "criteriaKey": "Estrutura",
+          "value": 8.27
+        },
+        {
+          "criteriaKey": "UI",
+          "value": 7.83
+        },
+        {
+          "criteriaKey": "Inovação",
+          "value": 7.83
+        }
+      ],
+      "members": [
+        "p-17",
+        "p-18",
+        "p-19"
+      ],
+      "githubUrl": "https://github.com/ProgramadoresSemPatria/Time-5"
+    },
+    {
+      "id": "time-6",
+      "name": "Time 6",
+      "project": "OpenSource Search",
+      "description": "Busca de repositórios open-source com integração à API do GitHub.",
+      "tags": [],
+      "position": 3,
+      "totalScore": 50,
+      "scores": [
+        {
+          "criteriaKey": "Clean Code",
+          "value": 8
+        },
+        {
+          "criteriaKey": "Estrutura",
+          "value": 7.67
+        },
+        {
+          "criteriaKey": "UI",
+          "value": 9.33
+        },
+        {
+          "criteriaKey": "Inovação",
+          "value": 8.33
+        }
+      ],
+      "members": [
+        "p-20",
+        "p-21",
+        "p-22"
+      ],
+      "githubUrl": "https://github.com/ProgramadoresSemPatria/hackathon-team06-openSourceRadar"
+    },
+    {
+      "id": "time-4",
+      "name": "Time 4",
+      "project": "FreelaCRM",
+      "description": "CRM para freelancers com integração Stripe.",
+      "tags": [],
+      "position": 5,
+      "totalScore": 30,
+      "scores": [
+        {
+          "criteriaKey": "Clean Code",
+          "value": 8.17
+        },
+        {
+          "criteriaKey": "Estrutura",
+          "value": 8.73
+        },
+        {
+          "criteriaKey": "UI",
+          "value": 7.67
+        },
+        {
+          "criteriaKey": "Inovação",
+          "value": 7.33
+        }
+      ],
+      "members": [
+        "p-13",
+        "p-14",
+        "p-15",
+        "p-16"
+      ],
+      "githubUrl": "https://github.com/ProgramadoresSemPatria/Team04---Code-Builders"
+    },
+    {
+      "id": "time-10",
+      "name": "Time 10",
+      "project": "ShiftEase",
+      "description": "Sistema para troca de turnos em empresas.",
+      "tags": [],
+      "position": 5,
+      "totalScore": 30,
+      "scores": [
+        {
+          "criteriaKey": "Clean Code",
+          "value": 7.83
+        },
+        {
+          "criteriaKey": "Estrutura",
+          "value": 8.33
+        },
+        {
+          "criteriaKey": "UI",
+          "value": 7.57
+        },
+        {
+          "criteriaKey": "Inovação",
+          "value": 7.67
+        }
+      ],
+      "members": [
+        "p-34",
+        "p-35",
+        "p-36",
+        "p-37"
+      ],
+      "githubUrl": "https://github.com/ProgramadoresSemPatria/ShiftEase-Team-10"
+    },
+    {
+      "id": "time-3",
+      "name": "Time 3",
+      "project": "Convite Online",
+      "description": "Plataforma para criação de convites digitais.",
+      "tags": [],
+      "position": 7,
+      "totalScore": 20,
+      "scores": [
+        {
+          "criteriaKey": "Clean Code",
+          "value": 8.17
+        },
+        {
+          "criteriaKey": "Estrutura",
+          "value": 8.43
+        },
+        {
+          "criteriaKey": "UI",
+          "value": 6.83
+        },
+        {
+          "criteriaKey": "Inovação",
+          "value": 6.67
+        }
+      ],
+      "members": [
+        "p-9",
+        "p-10",
+        "p-11",
+        "p-12"
+      ],
+      "githubUrl": "https://github.com/ProgramadoresSemPatria/Team3"
+    },
+    {
+      "id": "time-2",
+      "name": "Time 2",
+      "project": "Interview Tracking",
+      "description": "Sistema de acompanhamento de entrevistas.",
+      "tags": [],
+      "position": null,
+      "totalScore": 0,
+      "scores": [
+        {
+          "criteriaKey": "Clean Code",
+          "value": 8.27
+        },
+        {
+          "criteriaKey": "Estrutura",
+          "value": 7.33
+        },
+        {
+          "criteriaKey": "UI",
+          "value": 7.83
+        },
+        {
+          "criteriaKey": "Inovação",
+          "value": 7
+        }
+      ],
+      "members": [
+        "p-5",
+        "p-6",
+        "p-7",
+        "p-8"
+      ],
+      "githubUrl": "https://github.com/ProgramadoresSemPatria/hackaton-team2"
+    },
+    {
+      "id": "time-8",
+      "name": "Time 8",
+      "project": "EventoFácil",
+      "description": "Plataforma para organização de eventos entre amigos.",
+      "tags": [],
+      "position": null,
+      "totalScore": 0,
+      "scores": [
+        {
+          "criteriaKey": "Clean Code",
+          "value": 7.87
+        },
+        {
+          "criteriaKey": "Estrutura",
+          "value": 6.5
+        },
+        {
+          "criteriaKey": "UI",
+          "value": 8.17
+        },
+        {
+          "criteriaKey": "Inovação",
+          "value": 7.33
+        }
+      ],
+      "members": [
+        "p-27",
+        "p-28",
+        "p-29",
+        "p-30"
+      ],
+      "githubUrl": "https://github.com/ProgramadoresSemPatria/DeTeam-8"
+    },
+    {
+      "id": "time-9",
+      "name": "Time 9",
+      "project": "GoFit",
+      "description": "Aplicativo para planejamento de treinos físicos.",
+      "tags": [],
+      "position": null,
+      "totalScore": 0,
+      "scores": [
+        {
+          "criteriaKey": "Clean Code",
+          "value": 7.83
+        },
+        {
+          "criteriaKey": "Estrutura",
+          "value": 8.17
+        },
+        {
+          "criteriaKey": "UI",
+          "value": 7.5
+        },
+        {
+          "criteriaKey": "Inovação",
+          "value": 6.83
+        }
+      ],
+      "members": [
+        "p-31",
+        "p-32",
+        "p-33"
+      ],
+      "githubUrl": "https://github.com/ProgramadoresSemPatria/Team-9"
+    }
+  ],
+  "participants": [
+    {
+      "id": "p-1",
+      "name": "Lucas Loran Marciano",
+      "teamId": "time-1",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 75,
+        "totalPoints": 75
+      }
+    },
+    {
+      "id": "p-2",
+      "name": "Pedro Henrique Gago",
+      "teamId": "time-1",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 75,
+        "totalPoints": 75
+      }
+    },
+    {
+      "id": "p-3",
+      "name": "Gabriel Nunes",
+      "teamId": "time-1",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 75,
+        "totalPoints": 75
+      }
+    },
+    {
+      "id": "p-4",
+      "name": "João Vitor Gouvea",
+      "teamId": "time-1",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 75,
+        "totalPoints": 75
+      }
+    },
+    {
+      "id": "p-5",
+      "name": "Michel de Oliveira",
+      "teamId": "time-2",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 0,
+        "totalPoints": 0
+      }
+    },
+    {
+      "id": "p-6",
+      "name": "João Gabriel Figueiredo",
+      "teamId": "time-2",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 0,
+        "totalPoints": 0
+      }
+    },
+    {
+      "id": "p-7",
+      "name": "João Vitor Rufino",
+      "teamId": "time-2",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 0,
+        "totalPoints": 0
+      }
+    },
+    {
+      "id": "p-8",
+      "name": "Cauê Alves Barreto",
+      "teamId": "time-2",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 0,
+        "totalPoints": 0
+      }
+    },
+    {
+      "id": "p-9",
+      "name": "Diego Brito",
+      "teamId": "time-3",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 20,
+        "totalPoints": 20
+      }
+    },
+    {
+      "id": "p-10",
+      "name": "Igor de Oliveira",
+      "teamId": "time-3",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 20,
+        "totalPoints": 20
+      }
+    },
+    {
+      "id": "p-11",
+      "name": "Ramon Alves",
+      "teamId": "time-3",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 20,
+        "totalPoints": 20
+      }
+    },
+    {
+      "id": "p-12",
+      "name": "Felipe Torres",
+      "teamId": "time-3",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 20,
+        "totalPoints": 20
+      }
+    },
+    {
+      "id": "p-13",
+      "name": "Breno Silva",
+      "teamId": "time-4",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 30,
+        "totalPoints": 30
+      }
+    },
+    {
+      "id": "p-14",
+      "name": "Guilherme Lopes",
+      "teamId": "time-4",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 30,
+        "totalPoints": 30
+      }
+    },
+    {
+      "id": "p-15",
+      "name": "Vinicius da Rosa",
+      "teamId": "time-4",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 30,
+        "totalPoints": 30
+      }
+    },
+    {
+      "id": "p-16",
+      "name": "Ricardo Franco",
+      "teamId": "time-4",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 30,
+        "totalPoints": 30
+      }
+    },
+    {
+      "id": "p-17",
+      "name": "Luam Ramlow",
+      "teamId": "time-5",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 50,
+        "totalPoints": 50
+      }
+    },
+    {
+      "id": "p-18",
+      "name": "Gustavo Banãres",
+      "teamId": "time-5",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 50,
+        "totalPoints": 50
+      }
+    },
+    {
+      "id": "p-19",
+      "name": "Thales Oliveira",
+      "teamId": "time-5",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 50,
+        "totalPoints": 50
+      }
+    },
+    {
+      "id": "p-20",
+      "name": "Douglas Alisson",
+      "teamId": "time-6",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 50,
+        "totalPoints": 50
+      }
+    },
+    {
+      "id": "p-21",
+      "name": "Carlos Henryck",
+      "teamId": "time-6",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 50,
+        "totalPoints": 50
+      }
+    },
+    {
+      "id": "p-22",
+      "name": "Enrico Saito",
+      "teamId": "time-6",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 50,
+        "totalPoints": 50
+      }
+    },
+    {
+      "id": "p-23",
+      "name": "Arthur Duarte",
+      "teamId": "time-7",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 100,
+        "totalPoints": 100
+      }
+    },
+    {
+      "id": "p-24",
+      "name": "Yago Santos Rodrigues",
+      "teamId": "time-7",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 100,
+        "totalPoints": 100
+      }
+    },
+    {
+      "id": "p-25",
+      "name": "Nikolas Konoski",
+      "teamId": "time-7",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 100,
+        "totalPoints": 100
+      }
+    },
+    {
+      "id": "p-26",
+      "name": "Francisco Alexandro",
+      "teamId": "time-7",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 100,
+        "totalPoints": 100
+      }
+    },
+    {
+      "id": "p-27",
+      "name": "Vandilson Brito",
+      "teamId": "time-8",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 0,
+        "totalPoints": 0
+      }
+    },
+    {
+      "id": "p-28",
+      "name": "Patrick Simões",
+      "teamId": "time-8",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 0,
+        "totalPoints": 0
+      }
+    },
+    {
+      "id": "p-29",
+      "name": "Matheus Reis",
+      "teamId": "time-8",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 0,
+        "totalPoints": 0
+      }
+    },
+    {
+      "id": "p-30",
+      "name": "Luiz Renan",
+      "teamId": "time-8",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 0,
+        "totalPoints": 0
+      }
+    },
+    {
+      "id": "p-31",
+      "name": "Eduardo Barreira",
+      "teamId": "time-9",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 0,
+        "totalPoints": 0
+      }
+    },
+    {
+      "id": "p-32",
+      "name": "João Roberto Lawall",
+      "teamId": "time-9",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 0,
+        "totalPoints": 0
+      }
+    },
+    {
+      "id": "p-33",
+      "name": "Kauê Alves Vecchia",
+      "teamId": "time-9",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 0,
+        "totalPoints": 0
+      }
+    },
+    {
+      "id": "p-34",
+      "name": "Lucas Antônio",
+      "teamId": "time-10",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 30,
+        "totalPoints": 30
+      }
+    },
+    {
+      "id": "p-35",
+      "name": "Lucas Gabriel Donato",
+      "teamId": "time-10",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 30,
+        "totalPoints": 30
+      }
+    },
+    {
+      "id": "p-36",
+      "name": "Pedro Henrique Moreira",
+      "teamId": "time-10",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 0,
+        "totalPoints": 0
+      }
+    },
+    {
+      "id": "p-37",
+      "name": "Pablo Matheus",
+      "teamId": "time-10",
+      "metrics": {
+        "tasksCompleted": 0,
+        "attendance": 0,
+        "contributions": 30,
+        "totalPoints": 30
+      }
+    }
+  ]
+}
